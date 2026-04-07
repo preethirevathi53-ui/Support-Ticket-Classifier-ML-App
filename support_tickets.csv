@@ -1,0 +1,21 @@
+text,category,length
+Payment failed during checkout,Payment,30
+Payment not working,Payment,19
+Transaction failed again,Payment,24
+Payment error occurred,Payment,22
+App crashes when opening,Technical,24
+App is freezing,Technical,15
+System crash on startup,Technical,23
+App very slow response,Technical,22
+Unable to login,Account,15
+Forgot password,Account,15
+Account locked,Account,14
+Cannot reset password,Account,21
+Order not delivered,Delivery,19
+Delivery delayed,Delivery,16
+Item missing in order,Delivery,21
+Order status not updating,Delivery,25
+Refund not received,Payment,19
+Refund taking too long,Payment,22
+Money not refunded,Payment,18
+Refund processing delay,Payment,23
