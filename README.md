@@ -1,17 +1,50 @@
-# Support Ticket Classifier (ML App)
+# Support Ticket Classifier (ML Web App)
 
-This project is a machine learning-based web application that classifies customer support tickets and assigns priority levels.
+## 🚀 Overview
+This project is a machine learning-based web application that classifies customer support tickets and assigns priority levels automatically.
 
-## 🚀 Features
-- Classifies tickets into categories (Payment, Technical, Account, Delivery)
-- Assigns priority (High, Medium, Low)
-- Built using Streamlit
+---
+
+## ⚙️ Features
+- Classifies tickets into:
+  - Payment
+  - Technical
+  - Account
+  - Delivery
+- Assigns priority:
+  - High
+  - Medium
+  - Low
+- Built with Streamlit UI
+
+---
+
+## 🧠 Model
+- Algorithm: Naive Bayes
+- Text Processing: TF-IDF
+- Dataset: Custom dataset
+
+---
 
 ## ▶️ How to Run
 
 pip install streamlit scikit-learn pandas  
 streamlit run app.py  
 
+---
+
 ## 📷 Output
 
-![Output](output.png)
+(Add your screenshot here)
+
+---
+
+## 📊 Example
+
+Input: Payment failed again  
+Output: Payment, High  
+
+---
+
+## 🎯 Conclusion
+This project demonstrates a real-world application of machine learning for automating customer support systems.
